@@ -5,7 +5,7 @@ acid
 across
 act
 addition
-adjustment 
+adjustment
 advertisement
 after
 again
@@ -18,7 +18,7 @@ attention
 attraction
 authority
 automatic
-awake 
+awake
 baby
 back
 bad
@@ -38,7 +38,7 @@ bee
 before
 behaviour
 belief
-bell 
+bell
 bent
 berry
 between
@@ -57,7 +57,7 @@ cause
 certain
 chain
 chalk
-chance 
+chance
 change
 cheap
 cheese
@@ -77,7 +77,7 @@ coat
 cold
 collar
 colour
-comb 
+comb
 come
 comfort
 committee
@@ -93,7 +93,7 @@ conscious
 control
 cook
 copper
-copy 
+copy
 cord
 cork
 cotton
@@ -110,7 +110,7 @@ design
 desire
 destruction
 detail
-development 
+development
 different
 digestion
 direction
@@ -128,7 +128,7 @@ learning
 leather
 left
 letter
-level 
+level
 library
 lift
 light
@@ -147,7 +147,7 @@ move
 much
 muscle
 music
-nail 
+nail
 name
 narrow
 nation
@@ -165,7 +165,7 @@ profit
 property
 prose
 protest
-public 
+public
 pull
 pump
 punishment
@@ -183,7 +183,7 @@ separate
 serious
 servant
 shade
-shake 
+shake
 shame
 sharp
 sheep
@@ -203,7 +203,7 @@ station
 steam
 steel
 stem
-step 
+step
 stick
 sticky
 stiff
@@ -241,7 +241,7 @@ wall
 war
 warm
 wash
-waste 
+waste
 watch
 water
 wave
@@ -264,7 +264,7 @@ who
 why
 wide
 will
-wind 
+wind
 window
 wine
 wing
